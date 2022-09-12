@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)]
 <h1 align="center">Hi 👋, I'm J Md Farooq</h1>
 <h3 align="center">Data Science Enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/80/ab/46/80ab46ce3e991da1596d8358f459d587.gif">
+<img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/80/ab/46/80ab46ce3e991da1596d8358f459d587.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farooq-36&label=Profile%20views&color=0e75b6&style=flat" alt="farooq-36" /> </p>
 
